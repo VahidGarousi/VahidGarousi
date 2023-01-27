@@ -5,7 +5,7 @@ val vahidgarousi = developer {
         company = Charisma Investment Proccesing
     }
     links {
-        twitter = "@patientdeveloper"
+        twitter = "@vahidgarousi_"
     }
 }
 ```
